@@ -1,0 +1,5 @@
+filosofos=5
+duracao_seg=20
+think_ms=50-120
+eat_ms=40-90
+variacao=simetria
